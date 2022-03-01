@@ -1,0 +1,9 @@
+# vscode extention
+.vscode
+
+# virtual environment
+*venv
+*env
+
+# python cache files
+__pycache__

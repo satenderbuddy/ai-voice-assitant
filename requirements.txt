@@ -1,0 +1,13 @@
+wheel
+wolframalpha
+SpeechRecognition
+# ecapture
+pyjokes
+twilio
+requests
+beautifulsoup4
+wikipedia
+feedparser
+pyaudio
+pyttsx3
+
